@@ -1,2 +1,3 @@
+newfile
 NewFile.txt
 changed
